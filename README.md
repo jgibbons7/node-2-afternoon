@@ -13,7 +13,7 @@ In this project, we will create a local node chat server. After building out the
 ## Setup
 
 * `Fork` this repository.
-* `Clone` your `fork`.
+* `Clone` your `fork`.--
 
 ## Step 1
 
